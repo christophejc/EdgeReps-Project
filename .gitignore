@@ -4,3 +4,4 @@ anaconda3/
 venv/
 .env
 .DS_Store
+MediaPipe/*.sh
