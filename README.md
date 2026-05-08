@@ -2,6 +2,10 @@
 
 A two-tier edge AI system for real-time exercise classification, rep counting, and form feedback with no cloud connectivity.
 
+## Video Link
+
+https://youtu.be/hWciSzjnYwE
+
 ## How It Works
 ### Laptop bridge
 
