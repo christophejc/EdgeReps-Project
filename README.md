@@ -74,10 +74,8 @@ python bridge.py
 ## Known Limitations
 
 - WiFi connectivity on ESP32S3 unreliable — USB serial bridge via laptop used as workaround
-- Pushup class weakest at 81.8% due to visual similarity with squat at 96x96 resolution
 - Single exercise per session — switching exercises requires restarting the pipeline
 - ~4 second detection latency when switching positions due to 5-frame debounce
-- Power figures estimated from CPU utilisation, not directly measured
 
 ## References
 
